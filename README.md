@@ -10,6 +10,8 @@ Decision Trees
 
 Nearest Neighbors & Naive Bayes
 
+Final Project
+
 ### Dependencies
 
 Python 3.9
