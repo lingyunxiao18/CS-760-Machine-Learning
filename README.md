@@ -4,15 +4,20 @@ This is the assignment repo for CS 760, a PhD-level machine learning course, tau
 
 ### Programming Assignments
 
-Decision Tree , classification
-K Nearest Neighbors, classification and regression
-Perceptron and Neural network, classification
-Naive bayes and tree augmented bayes net, binary classification
-a written assignment
+Decision Tree 
+
+K Nearest Neighbors
+
+Perceptron and Neural network
+
+Naive bayes and tree augmented bayes net
 
 ### Dependencies
 
-Python 2.7
+Python 3.9
+
 scipy
+
 numpy
+
 matplotlib
